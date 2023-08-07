@@ -294,7 +294,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ad2e60d30f129d740866ee0bdfc0124e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AgressionLevel: 1
+  AgressionLevel: 3
   fSpeed: 250
   PlayerBasesLayer:
     serializedVersion: 2
